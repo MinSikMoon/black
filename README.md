@@ -1,2 +1,2 @@
-# black
-just simple black background 
+# 💻black
+A simple black background to protect your eyesight
